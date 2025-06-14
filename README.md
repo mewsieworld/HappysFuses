@@ -5,8 +5,6 @@ i have a pretty foundational belief that information was meant to be free. so: i
 anyone can use these -- commercial, private, personal projects, whatever.  
 i don't expect credit -- it's the internet, we steal things here -- but if you do or don't give credit, i just ask that you do it respectfully.
 
-## what you'll find here:
+## what you'll find here in this branch:
 
 *   prepped .nri files ready to import
-*   raw .bmp's of my recolors and originals
-*   showcases of my finished recolor lines
