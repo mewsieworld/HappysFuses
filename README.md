@@ -3,7 +3,7 @@ i'm mewsie! (some of you from epTO might know me as mewzie or happy, which was m
 
 i have a pretty foundational belief that information was meant to be free. so: i'm releasing my fuses for free, and i'll be updating them here as i make more.  
 anyone can use these -- commercial, private, personal projects, whatever.  
-i don't expect credit -- it's the internet, we steal things here -- but if you do or don't give credit, i just ask that you do it respectfully, and also that do not encrypt the nri's, should any hobbyist look into unpacking your client, as especially without credit, it will be hard to find this repository.
+i don't expect credit -- it's the internet, we steal things here -- but if you do or don't give credit, i just ask that you do it respectfully, and also that do not encrypt the nri's, should any hobbyist look into unpacking your client, as especially without credit, it will be hard to find this repository. i cannot stop you, as i intentionally put this under the unlicense, but it is my request as the creator of these recolors.
 
 ## what you'll find here in this branch:
 
