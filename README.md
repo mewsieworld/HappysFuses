@@ -55,7 +55,7 @@ Happy Hat - Hat
 
 Happy's Headdress - Hat
 
-![Happys Headdress Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happysheaddress_showcase.png)
+![Happys Headdress Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happy_headdress_showcase.png)
 
 Hyena Headband - Hat
 
@@ -71,7 +71,7 @@ Princess Tiara - Hat
 
 Sakurako Hairpin - Hat
 
-![Sakurako Flower Hairpin Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/sakurako_flower_showcase.png)
+![Sakurako Flower Hairpin Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/sakurak_flower_showcase.png)
 
 Satoko Hairband - Hat
 
