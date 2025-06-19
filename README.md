@@ -23,7 +23,7 @@ Afro - Hat
 
 Beanpter - Pet
 
-![Beanpter Animation](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/beanpter_keyed.png)
+![Beanpter Animation](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/beanpter_keyed.gif)
 
 Biker Helm - Hat
 
