@@ -12,21 +12,22 @@ i don't expect credit -- it's the internet, we steal things here -- but if you d
 *   raw showcase files of my finished recolor lines
 
 ## Original Showcases
+
 Chaos Token - Item
 ![Chaos Token](https://github.com/mewsieworld/HappysFuses/blob/main/showcases/original/chaos_token.png)
 
 ## Recolor Showcases
 Afro - Hat
 
-![Afro Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/afro_strip.png)
+![Afro Spritesheet](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/afro_better.png)
 
 Beanpter - Pet
 
-![Beanpter Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/beanpter_strip.png)
+![Beanpter Animation](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/beanpter_keyed.png)
 
 Biker Helm - Hat
 
-![Biker Helm Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/biker_helm_strip.png)
+![Biker Helm Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/biker_showcase.png)
 
 Bow Headband - Hat
 
@@ -54,7 +55,7 @@ Happy Hat - Hat
 
 Happy's Headdress - Hat
 
-![Happys Headdress Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happysheaddress_strip.png)
+![Happys Headdress Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happysheaddress_showcase.png)
 
 Hyena Headband - Hat
 
@@ -62,7 +63,7 @@ Hyena Headband - Hat
 
 Minnie's Bow - Hat
 
-![Minnie's Bow Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/minniesbow_strip.png)
+![Minnie's Bow Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/Minnies_bow_showcase.png)
 
 Princess Tiara - Hat
 
@@ -70,11 +71,11 @@ Princess Tiara - Hat
 
 Sakurako Hairpin - Hat
 
-![Sakurako Flower Hairpin Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/sakurako_flower_hairpin_strip.png)
+![Sakurako Flower Hairpin Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/sakurako_flower_showcase.png)
 
 Satoko Hairband - Hat
 
-![Satoko Hairband Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/satokobow_headband_strip.png)
+![Satoko Hairband Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/satokobow_headband_showcase.png)
 
 Sephira's Hat - Hat
 
@@ -86,4 +87,4 @@ Stardust and Special Stardust Capes - Cape
 
 Zapper - Gun
 
-![Zapper Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/zapper_strip.png)
+![Zapper Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/zapper_showcase.png)
