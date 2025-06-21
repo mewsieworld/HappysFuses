@@ -14,13 +14,16 @@ i don't expect credit -- it's the internet, we steal things here -- but if you d
 ## Originals' Showcases
 
 Chaos Token - Item
+
 ![Chaos Token](https://github.com/mewsieworld/HappysFuses/blob/main/showcases/original/chaos_token.png)
 
 Drawing Heart - Head Equip
-![Drawing Heart With Character](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/original/heart_head_char.gif) ![Drawing Heart Without Character](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/original/heart_head_nochar.gif)
+
+![Drawing Heart With Character](showcases/original/heart_head_char.gif) ![Drawing Heart Without Character](showcases/original/heart_head_nochar.gif)
 
 Fairy Series - Head Equips (No Character Shown)
-![Fairy Series Showcase Nochar](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/original/fairyshowcase.gif)
+
+![Fairy Series Showcase Nochar](showcases/original/fairyshowcase.gif)
 
 ## Recolors' Showcases
 
