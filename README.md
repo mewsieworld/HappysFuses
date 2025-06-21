@@ -39,9 +39,17 @@ Biker Helm - Hat
 
 ![Biker Helm Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/biker_showcase.png)
 
+Black Cat - Pet
+
+![Black Cat Showcase](showcases/recolors/BlackCat.gif)
+
 Bow Headband - Hat
 
 ![Bow Headband Strip](https://github.com/mewsieworld/HappysFuses/blob/main/showcases/recolors/bowhairband_strip.png)
+
+Calico Cat - Pet
+
+![Calico Cat Showcase](showcases/recolors/CalicoCat.gif)
 
 Cherry Blossom Accessory - Hat
 
