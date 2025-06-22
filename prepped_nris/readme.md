@@ -15,13 +15,16 @@ These are otherwise currently exclusive to PoppuriTO (as epTO shut down and got 
 # Potential Questions:
 
 1. How do I add these to my server?
-- Honestly I'm not sure yet LMAO, I'll update this when I figure out how to do it myself
+
+- You'll need to program the items individually via [ItemParam XML tables](https://mewsie.world/TricksterDevWiki/index.php/ItemParam_CheatSheet) and then put the NRI files in the appropriate folders. Make sure your Item class and types are set correctly!
 
 2. How do I add the configuration files for the server-side client
-- See Question 1 I'm so sorry :(
+
+- Generally you'll want to add them to ItemParam. Check out [my cheatsheet here on how to configure it yourself](https://mewsie.world/TricksterDevWiki/index.php/ItemParam_CheatSheet), brick by brick.
 
 3. How do I add these to the database
-- See Question 1 I'm so sorry :(
+
+- You'll need to make an insert statement that adds to the dbo.ini_item_index sql table. I have created [scripts to convert your itemparam XML's to SQL insert statements, a script to combine them (in case they were too small of chunks), and a script to run all the statements](https://github.com/mewsieworld/TO-Fuse-Tools-And-Guides/tree/main/scripts/XML%20to%20SQL).
 
 4. How did you make these?
 - First I extracted the originals from the existing *.nri files using TNT, then combed through the databases or files themselves and found the matching icons and frames for the images. I was "lazy" on looking for the illustrations, so instead, I opted to make fun, custom ones. You will see some are really silly :) I had fun with them. These were then exported to bmp (v2; 24-bit) via photoshop, imported using a GM fuse tool (provided by epTO), arranged in the right frame order/position, and then exported as a 24-bit .nri. I then seperated them into the appropriate folders for you (or maybe not upon second glance? I messed up a few times--you might want to double check; will fix later), by equip and item, for the frames, icons, and portraits.
