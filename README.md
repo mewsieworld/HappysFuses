@@ -53,7 +53,7 @@ Calico Cat - Pet
 
 Cherry Blossom Accessory - Hat
 
-![Cherry Blossom Accessory Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/cherry_blossom_accessory_strip.png)
+![Cherry Blossom Accessory Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/chr_blossom_acc_showcase.png)
 
 Cyber Headset - Face
 
@@ -69,15 +69,19 @@ Gangsta Hood - Hat
 
 Happy Hat - Hat
 
-![Happy Hat Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happy_hat_strip.png)
+![Happy Hat Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happy_hat_showcase.png)
 
 Happy's Headdress - Hat
 
 ![Happys Headdress Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/happy_headdress_showcase.png)
 
+Hibiscus Flower - Hat
+
+![Hibiscus Flower Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/hibiscus_flower_showcase.png)
+
 Hyena Headband - Hat
 
-![Hyena Headband Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/hyena_headband_strip.png)
+![Hyena Headband Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/hyena_headband_Showcase.png)
 
 Minnie's Bow - Hat
 
@@ -85,7 +89,7 @@ Minnie's Bow - Hat
 
 Princess Tiara - Hat
 
-![Princess Tiara Strip](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/princess_tiara_strip.png)
+![Princess Tiara Showcase](https://raw.githubusercontent.com/mewsieworld/HappysFuses/main/showcases/recolors/princess_tiara_showcase.png)
 
 Sakurako Hairpin - Hat
 
