@@ -21,9 +21,9 @@ Drawing Heart - Head Equip
 
 ![Drawing Heart With Character](showcases/original/heart_head_char.gif) ![Drawing Heart Without Character](showcases/original/heart_head_nochar.gif)
 
-Fairy Series - Head Equips (No Character Shown)
+Fairy Series - Head Equips
 
-![Fairy Series Showcase Nochar](showcases/original/fairyshowcase.gif)
+![Fairy Series Showcase With Char](showcases/original/fairyshowcase_char.gif) ![Fairy Series Showcase Nochar](showcases/original/fairyshowcase.gif) 
 
 ## Recolors' Showcases
 
